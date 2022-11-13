@@ -1,30 +1,39 @@
+document.addEventListener("DOMContentLoaded", function () {
+    let buttons = document.getElementsByTagName("button");
+
+    for (let button of buttons) {
+        button.addEventListener("click", function () {})
+    }
+})
+
 function runGame() {
 
 }
 
-function checkAnswer(){
+function checkAnswer() {
 
 }
 
-function  calculateCorrectAnswer(){
+function calculateCorrectAnswer() {
 
 }
 
-function incrementScore(){
+function incrementScore() {
 
 }
 
-function incrementWrongAnswer(){
+function incrementWrongAnswer() {
 
 }
 
-function displayAdditionQuestion(){
+function displayAdditionQuestion() {
 
 }
 
-function displaySubtractQuestion(){
-    
+function displaySubtractQuestion() {
+
 }
-function displayMultiplyQuestion(){
-    
+
+function displayMultiplyQuestion() {
+
 }
